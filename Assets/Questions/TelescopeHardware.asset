@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48355faf2cb0c1644a8a9384d9aad12f, type: 3}
+  m_Name: TelescopeHardware
+  m_EditorClassIdentifier: 
+  question: Which one of these is the James Webb Telecope?
+  correctAnswerText: Correct! This is the James Webb Space Telescope.
+  incorrectAnswerText: Incorrect! This is the Hubble Space Telescope.
+  answers:
+  - 
+  - 
+  correctAnswerIndex: 0
+  leftButtonSprite: {fileID: 21300000, guid: a2ed5b207e3c9054892bb7eed37780eb, type: 3}
+  rightButtonSprite: {fileID: 21300000, guid: b9b5adbc9e7c65947b5f9f30e40487f3, type: 3}

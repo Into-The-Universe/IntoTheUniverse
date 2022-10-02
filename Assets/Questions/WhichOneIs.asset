@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48355faf2cb0c1644a8a9384d9aad12f, type: 3}
+  m_Name: WhichOneIs
+  m_EditorClassIdentifier: 
+  question: Which of these images was taken by the James Webb Telescope?
+  correctAnswerText: Correct! This is an image of the Carina Nebula. JWST has a mirror
+    three times larger than hubble. This larger light collecting area means that
+    Webb can peer farther back into time.
+  incorrectAnswerText: 'Incorrect! This image was taken by hubble. It was released
+    as part of Hubbles 17th anniversary. '
+  answers:
+  - 
+  - 
+  correctAnswerIndex: 1
+  leftButtonSprite: {fileID: 21300000, guid: aab8d59458b8f5b4c94c3fe73c301dd8, type: 3}
+  rightButtonSprite: {fileID: 21300000, guid: d8a941b499683d5418607a88667cdc79, type: 3}

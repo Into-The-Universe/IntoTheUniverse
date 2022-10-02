@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48355faf2cb0c1644a8a9384d9aad12f, type: 3}
+  m_Name: Mirror
+  m_EditorClassIdentifier: 
+  question: Which of these Mirrors belong to the James Webb Space Telescope?
+  correctAnswerText: Correct! The JWST mirror is approximately 6.5 meters in diameter.
+  incorrectAnswerText: Incorrect This shows Hubbles mirror which is 2.4 meters in
+    diameter. JWST mirror is approximately 6.5 meters in diameter.
+  answers:
+  - 
+  - 
+  correctAnswerIndex: 1
+  leftButtonSprite: {fileID: 21300000, guid: 443a1591035d45a4eb6d531f518d165b, type: 3}
+  rightButtonSprite: {fileID: 21300000, guid: 4871eaff592b5344b80c6070d7736c75, type: 3}

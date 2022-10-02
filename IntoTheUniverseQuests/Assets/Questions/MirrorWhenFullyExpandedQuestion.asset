@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c050677e5809d384b86eab6bc83a93da, type: 3}
+  m_Name: MirrorWhenFullyExpandedQuestion
+  m_EditorClassIdentifier: 
+  Question: How big is the James Webb Telescope's main mirror when fully expanded?
+  Answers:
+  - 6.5 metres wide
+  - 2.5 metres wide
+  - 10.5 metres wide
+  CorrectAnswerIndex: 0
+  CorrectAnswerDescription: 'It''s 6.5 metres wide. It is almost three times larger
+    than the primary mirror on the Hubble telescope - so is much more powerful.
+
+
+    A
+    mirror this large has never before been launched into space!
+
+
+    The mirror
+    is so big, it requires a huge sunshade the size of a tennis court to sit underneath
+    it so the sun does not interfere with the telescope''s readings. '

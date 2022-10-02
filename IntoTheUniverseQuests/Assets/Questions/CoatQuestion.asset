@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c050677e5809d384b86eab6bc83a93da, type: 3}
+  m_Name: CoatQuestion
+  m_EditorClassIdentifier: 
+  Question: 'The James Webb Telescope''s mirror is made from Beryllium - a light
+    and strong metallic element.
+
+
+    But what is it coated in to make it more reflective?'
+  Answers:
+  - Glass
+  - Platinum
+  - Gold
+  CorrectAnswerIndex: 2
+  CorrectAnswerDescription: "It's coated in a microscopically thin layer of gold.
+    Each of the 18 hexagonal-shaped mirror segments have had to be made to be very
+    lightweight - they weight around 20 kilograms each. \r\n\r\nThey also need to
+    be kept at very cold temperatures. This is so they can easily identify infrared
+    light that distant galaxies in space give off. "

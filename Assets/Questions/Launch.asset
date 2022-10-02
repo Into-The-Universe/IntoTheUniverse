@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48355faf2cb0c1644a8a9384d9aad12f, type: 3}
+  m_Name: Launch
+  m_EditorClassIdentifier: 
+  question: Which of these is an image of the launch of the James Webb Telescope?
+  correctAnswerText: Correct! The JWST was launched on a Ariane 5 rocket from Europe's
+    Spaceport in French Guiana, South America at 7:20 a.m. EST on Dec. 25 2021.
+  incorrectAnswerText: Incorrect! This image shows the launch of the Hubble Telescope.
+    Hubble was launched April 24rh 1990. 21 years before JWST.
+  answers:
+  - 
+  - 
+  correctAnswerIndex: 0
+  leftButtonSprite: {fileID: 21300000, guid: 8b379fce1cc4afc42afef545c201693e, type: 3}
+  rightButtonSprite: {fileID: 21300000, guid: 46588e997a04ad740b11a1a5ce0eeb0c, type: 3}
